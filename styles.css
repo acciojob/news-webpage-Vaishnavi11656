@@ -38,7 +38,9 @@
 }
 .main-article{
 	flex:1;
-	border-radius: 8px; /* As requested */
+	background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 .main-article h2{
